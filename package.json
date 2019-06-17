@@ -95,5 +95,9 @@
       "path": "./packages/venia-concept/dist/js/[0-9]-*.js",
       "maxSize": "21 kB"
     }
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/magento-research/pwa-studio.git"
+  }
 }
